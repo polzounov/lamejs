@@ -16217,7 +16217,6 @@ WavHeader.readHeader = function (dataView) {
   return w;
 };
 
-module.exports.Mp3Encoder = Mp3Encoder;
 module.exports.Encoder = Encoder;
 module.exports.WavHeader = WavHeader;
 

@@ -1,6 +1,6 @@
 {
   "name": "lamejs",
-  "version": "1.2.3",
+  "version": "1.2.2",
   "description": "Pure JavaScript MP3 Encoder",
   "main": "lame.min.js",
   "directories": {
